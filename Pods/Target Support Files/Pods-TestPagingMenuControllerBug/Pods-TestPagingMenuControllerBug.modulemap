@@ -1,0 +1,6 @@
+framework module Pods_TestPagingMenuControllerBug {
+  umbrella header "Pods-TestPagingMenuControllerBug-umbrella.h"
+
+  export *
+  module * { export * }
+}
